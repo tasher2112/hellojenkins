@@ -7,12 +7,14 @@
 
 ***
 ## 1 этап
+
 # Зашёл на сайт по своему логину и паролю
 <img width="1837" height="928" alt="2025-12-06_13-41-23" src="https://github.com/user-attachments/assets/cba62c5c-74b3-47f2-8ff2-ad067fd4e5b6" />
+
 # И создал сборку pipeline 
 <img width="1837" height="925" alt="2025-12-06_13-42-12" src="https://github.com/user-attachments/assets/d7b4305d-53d8-404f-b21c-911b29760fa7" />
-# В область Script добавил код из методички, изменив необходимые значения переменных
 
+# В область Script добавил код из методички, изменив необходимые значения переменных
 ```
 pipeline {
     agent any
