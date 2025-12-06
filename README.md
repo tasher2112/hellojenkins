@@ -71,4 +71,9 @@ pipeline {
 
 <img width="1356" height="925" alt="2025-12-06_13-49-39" src="https://github.com/user-attachments/assets/c89b973a-3047-4b3d-ba75-57d9ae6e39d1" />
 
+## После некоторых неудачных использований вебхука поставил флажок в дженкинсе на триггер по вебхуку
+<img width="985" height="579" alt="2025-12-06_13-53-02" src="https://github.com/user-attachments/assets/b5e67126-b7e3-4f95-a7d8-2e71b546dc44" />
+<img width="1832" height="932" alt="2025-12-06_13-55-00" src="https://github.com/user-attachments/assets/e540e0a2-b74b-4e2a-af40-72ba5575ea6b" />
+
+
 ***
